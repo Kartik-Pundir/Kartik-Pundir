@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="github_profile_banner.png" alt="Kartik Pundir Header Banner" width="100%">
-</p>
-
 <h1 align="center">Hey there! I'm Kartik Pundir 👋</h1>
 <p align="center">
   <strong>Full-Stack Developer | Software Engineer | Tech Enthusiast</strong>
